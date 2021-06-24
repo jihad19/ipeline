@@ -6,6 +6,7 @@ namespace Colors.API.Models
 {
     public class ColorBrightnessDifference
     {
+
         public Color Color1 { get; }
         public Color Color2 { get; }
         public double Diff { get; }
