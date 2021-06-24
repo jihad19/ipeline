@@ -3,6 +3,7 @@ name: HerokuContainer
 on:
   push:
     branches:
+
       - master
 
 jobs:
