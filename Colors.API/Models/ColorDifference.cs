@@ -12,6 +12,7 @@ namespace Colors.API.Models
         public const int Threshold = 500;
 
         public ColorDifference(Color color1, Color color2)
+
         {
             Color1 = color1;
             Color2 = color2;
